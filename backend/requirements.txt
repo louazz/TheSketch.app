@@ -1,0 +1,7 @@
+flask[async]
+flask_bcrypt
+tinydb
+flask_cors
+flask_jwt_extended
+huggingface_hub
+flask_socketio
